@@ -68,15 +68,15 @@
   <Crafting.verb>TODO</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>TODO</Doctor.description>
+  <Doctor.description>Tratar al enfermo, alimentarlos, animarlos y realizar las cirujías designadas. Los médicos tratarán tanto a colonos como prisioneros.</Doctor.description>
   <!-- EN: doctoring -->
-  <Doctor.gerundLabel>TODO</Doctor.gerundLabel>
+  <Doctor.gerundLabel>Tratando</Doctor.gerundLabel>
   <!-- EN: Doctor -->
-  <Doctor.labelShort>TODO</Doctor.labelShort>
+  <Doctor.labelShort>Medicina</Doctor.labelShort>
   <!-- EN: Doctor -->
-  <Doctor.pawnLabel>TODO</Doctor.pawnLabel>
+  <Doctor.pawnLabel>Médico(a)</Doctor.pawnLabel>
   <!-- EN: Care for -->
-  <Doctor.verb>TODO</Doctor.verb>
+  <Doctor.verb>Tratar</Doctor.verb>
   
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>TODO</Firefighter.description>
@@ -134,15 +134,15 @@
   <Hunting.verb>TODO</Hunting.verb>
   
   <!-- EN: Digging and drilling. -->
-  <Mining.description>TODO</Mining.description>
+  <Mining.description>Perforar, cavar y picar.</Mining.description>
   <!-- EN: mining -->
-  <Mining.gerundLabel>TODO</Mining.gerundLabel>
+  <Mining.gerundLabel>Minando</Mining.gerundLabel>
   <!-- EN: Mine -->
-  <Mining.labelShort>TODO</Mining.labelShort>
+  <Mining.labelShort>Minería</Mining.labelShort>
   <!-- EN: Miner -->
-  <Mining.pawnLabel>TODO</Mining.pawnLabel>
+  <Mining.pawnLabel>Minero(a)</Mining.pawnLabel>
   <!-- EN: Mine -->
-  <Mining.verb>TODO</Mining.verb>
+  <Mining.verb>Minar</Mining.verb>
   
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
   <Patient.description>TODO</Patient.description>
