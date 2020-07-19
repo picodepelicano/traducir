@@ -20,26 +20,26 @@
   <BreakRiskDescEnding>Revisa las necesidades de estos colonos en la pestaña de 'Necesidades' para ver qué es lo que necesitan.\n\nPara hacerlos sentir mejor, puedes hacer cosas como preparales comida gourmet, darles más horas de ocio, mejorar las fuentes de ocio, decorar sus ambientes de trabajo, proporcionarles bebida, drogas, entre otras muchas cosas.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue>Colono necesita rescate</ColonistNeedsRescue>
+  <ColonistNeedsRescue>Un colono necesita rescate</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
-  <ColonistsNeedRescue>Colonos necesitan rescate</ColonistsNeedRescue>
+  <ColonistsNeedRescue>Varios colonos necesitan rescate</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
   <ColonistsNeedRescueDesc>Estos colonoes están incapacitados en el suelo:\n\n{0}\nManda a otro en su auxílio y llevalos a una cama hospitalaria.\n\n(Para rescatar, selecciona otro colono, haz clic derecho en la víctima y selecciona 'Rescatar')</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>Faltan defensas</NeedDefenses>
+  <NeedDefenses>Hacen falta defensas</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
   <NeedDefensesDesc>Llevas aquí bastante tiempo y lo más probable es que ya te hayan notado. Los piratas comenzarán sus asaltos pronto.\n\nDeberías preparar algunas defensas, como sacos de arena, barricadas o trampas.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>Doctor necesario</NeedDoctor>
+  <NeedDoctor>Hace falta un médico</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>Estos colonos necesitan atención médica, pero no hay colonos saludables designados como doctores.\n\n{0}\nDesigna a un colono saludable a trabajar de doctor. Si no se tratan, las heridas pueden no sanar adecuadamente y terminar siendo permanentes.</NeedDoctorDesc>
+  <NeedDoctorDesc>Estos colonos necesitan atención médica, pero no hay colonos saludables designados como doctores.\n\n{0}\nDesigna a un colono saludable a trabajar en 'Medicina'. Si no se tratan, las heridas pueden no sanar adecuadamente y terminar siendo permanentes.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
-  <NeedMiner>TODO</NeedMiner>
+  <NeedMiner>Hace falta un minero</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>TODO</NeedMinerDesc>
+  <NeedMinerDesc>Has marcado algunas rocas para ser minadas, pero ningún colono ha sido designado para trabajar en 'Mineria'.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>TODO</NeedWarden>
@@ -47,12 +47,12 @@
   <NeedWardenDesc>TODO</NeedWardenDesc>
 
   <!-- EN: Low food -->
-  <LowFood>TODO</LowFood>
+  <LowFood>Poca comida</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
   <LowFoodDesc>TODO</LowFoodDesc>
 
   <!-- EN: Low medicine -->
-  <LowMedicine>TODO</LowMedicine>
+  <LowMedicine>Poca medicina</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
   <LowMedicineDesc>TODO</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
@@ -74,32 +74,32 @@
   <HunterLacksWeaponDesc>TODO</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>TODO</AlertTatteredApparel>
+  <AlertTatteredApparel>Atuendo arapiento</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc>TODO</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>TODO</AlertUnhappyNudity>
+  <AlertUnhappyNudity>Desnudez infeliz</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertUnhappyNudityDesc>TODO</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
-  <Starvation>TODO</Starvation>
+  <Starvation>Inanición</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
   <StarvationDesc>TODO</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>TODO</StarvationAnimals>
+  <StarvationAnimals>Inanición animal</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
   <StarvationAnimalsDesc>TODO</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
-  <Exhaustion>TODO</Exhaustion>
+  <Exhaustion>Agotamiento</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>TODO</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>TODO</NeedFoodHopper>
+  <NeedFoodHopper>Tolva de alimentos necesaria</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
   <NeedFoodHopperDesc>TODO</NeedFoodHopperDesc>
 
@@ -119,15 +119,15 @@
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
   <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>TODO</bored>
+  <bored>aburrido(a)</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>TODO</Boredom>
+  <Boredom>Aburrimiento</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
   <BoredomDesc>TODO</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>TODO</NeedBatteries>
+  <NeedBatteries>Hacen falta baterías</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
   <NeedBatteriesDesc>TODO</NeedBatteriesDesc>
 
@@ -142,17 +142,17 @@
   <ShieldUserHasRangedWeaponDesc>TODO</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>TODO</NeedResearchProject>
+  <NeedResearchProject>Proyecto de investigación necesario</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
   <NeedResearchProjectDesc>TODO</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>TODO</ColonistsIdle>
+  <ColonistsIdle>{0} colonos ociosos</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>TODO</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>Caravana parada</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
   <CaravanIdleDesc>TODO</CaravanIdleDesc>
 
@@ -162,7 +162,7 @@
   <ColonistNeedsTreatmentDesc>TODO</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
-  <AlertHypothermia>TODO</AlertHypothermia>
+  <AlertHypothermia>Hipotermia</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>TODO</AlertHypothermiaDesc>
   
@@ -172,12 +172,12 @@
   <PatientsAwaitingMedicalOperationDesc>TODO</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
-  <FireInHomeArea>TODO</FireInHomeArea>
+  <FireInHomeArea>¡Fuego!</FireInHomeArea>
   <!-- EN: There is a fire in the home area. -->
   <FireInHomeAreaDesc>TODO</FireInHomeAreaDesc>
 
   <!-- EN: Medical emergency -->
-  <PawnsWithLifeThreateningDisease>TODO</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>Emergencia médica</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
   <PawnsWithLifeThreateningDiseaseDesc>TODO</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
@@ -203,7 +203,7 @@
   <NeedWarmClothesDesc2>TODO</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>TODO</ImmobileCaravan>
+  <ImmobileCaravan>Caravana inmóvil</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
   <ImmobileCaravanDesc>TODO</ImmobileCaravanDesc>
 
@@ -213,7 +213,7 @@
   <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <AlertHeatstroke>Insolación</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
   <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
 
