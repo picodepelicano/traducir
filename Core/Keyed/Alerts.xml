@@ -2,39 +2,39 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>TODO</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Haz clic para ir al problema</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>TODO</BreakRiskMinor>
+  <BreakRiskMinor>Riesgo de colapso menor</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>TODO</BreakRiskMajor>
+  <BreakRiskMajor>Riesgo de colapso mayor</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>TODO</BreakRiskExtreme>
+  <BreakRiskExtreme>Riesgo de colapso extremo</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>TODO</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Estos colonos tienen el humor bajo y podrían tener un colapso mental en cualquier momento:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>TODO</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Estos colonos tienen el humor por los suelos y podrían tener un colapso mental grave en cualquier momento:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>TODO</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Estos colonos están extremadamente estresados y podrían tener un colapso mental grave (y posiblemente violento) en cualquier momento:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>TODO</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Revisa las necesidades de estos colonos en la pestaña de 'Necesidades' para ver qué es lo que necesitan.\n\nPara hacerlos sentir mejor, puedes hacer cosas como preparales comida gourmet, darles más horas de ocio, mejorar las fuentes de ocio, decorar sus ambientes de trabajo, proporcionarles bebida, drogas, entre otras muchas cosas.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue>TODO</ColonistNeedsRescue>
+  <ColonistNeedsRescue>Colono necesita rescate</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
-  <ColonistsNeedRescue>TODO</ColonistsNeedRescue>
+  <ColonistsNeedRescue>Colonos necesitan rescate</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>TODO</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Estos colonoes están incapacitados en el suelo:\n\n{0}\nManda a otro en su auxílio y llevalos a una cama hospitalaria.\n\n(Para rescatar, selecciona otro colono, haz clic derecho en la víctima y selecciona 'Rescatar')</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>TODO</NeedDefenses>
+  <NeedDefenses>Faltan defensas</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>TODO</NeedDefensesDesc>
+  <NeedDefensesDesc>Llevas aquí bastante tiempo y lo más probable es que ya te hayan notado. Los piratas comenzarán sus asaltos pronto.\n\nDeberías preparar algunas defensas, como sacos de arena, barricadas o trampas.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>TODO</NeedDoctor>
+  <NeedDoctor>Doctor necesario</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>TODO</NeedDoctorDesc>
+  <NeedDoctorDesc>Estos colonos necesitan atención médica, pero no hay colonos saludables designados como doctores.\n\n{0}\nDesigna a un colono saludable a trabajar de doctor. Si no se tratan, las heridas pueden no sanar adecuadamente y terminar siendo permanentes.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>TODO</NeedMiner>
