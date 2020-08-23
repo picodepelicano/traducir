@@ -42,9 +42,9 @@
   <NeedMinerDesc>Has marcado algunas rocas para ser minadas, pero ningún colono ha sido designado para trabajar en 'Mineria'.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
-  <NeedWarden>TODO</NeedWarden>
+  <NeedWarden>Hace falta un carcelero</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>TODO</NeedWardenDesc>
+  <NeedWardenDesc>Tienes un prisionero, pero ningún colono hace la función de 'Carcelero'.\n\nDesigna a un colono para hacerse cargo de ello.</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>Poca comida</LowFood>
@@ -59,17 +59,17 @@
   <NoMedicineDesc>TODO</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>TODO</NeedColonistBeds>
+  <NeedColonistBeds>Hacen falta camas para los colonos</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>TODO</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Colonos sin enterrar</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
   <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
-  <HunterLacksWeapon>TODO</HunterLacksWeapon>
+  <HunterLacksWeapon>Cazador sin arma a distancia</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
   <HunterLacksWeaponDesc>TODO</HunterLacksWeaponDesc>
 
@@ -106,10 +106,10 @@
   <!-- EN: Need meal source -->
   <NeedMealSource>TODO</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>TODO</NeedMealSourceDesc>
+  <NeedMealSourceDesc>No tienes ningún medio para preparar comida a partir de alimentos crudos.\n\nConstruye una cocina, hoguera, o dispensador de pasta nutritiva.\n\n(No puede estar en una celda, o si nó los colonos no podrán usarlo.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>TODO</NeedJoySource>
+  <NeedJoySource>Hace falta variedad de ocio</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>TODO</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
